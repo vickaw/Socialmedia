@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Socialmedia</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">fhVfIy9NDCkvyEzqKbG2DtNi8B9JXLAxVhBGJwFf</string>
+    <string name="back4app_client_key">7bAPBmkQHfs3IiunkyAgvdnZ26QNUOPiy6IPfl80</string>
+</resources>
