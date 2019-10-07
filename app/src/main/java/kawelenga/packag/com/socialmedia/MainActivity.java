@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
                                     FancyToast.LENGTH_LONG, FancyToast.SUCCESS, true).show();
 
                             transactionToSocialMedia();
-                            
+
                         } else {
                             ParseUser.logOut();
                             //Toast.makeText(SignUpActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
